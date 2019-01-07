@@ -15,6 +15,6 @@ It includes material on how to ise Python for:
 
 * Data Structures
 * Control of Execution
-* Functions
+* [Functions](https://nbviewer.jupyter.org/github/EvansDataScience/ComputationalThinking_Gov_1/blob/master/S1_C_Py_progfunctions.ipynb)
 
 Please **fork** this repository, and then clone it into your computer. You can also see/run each notebook using [**nbviewer**](http://nbviewer.jupyter.org).
