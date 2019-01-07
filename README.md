@@ -13,8 +13,8 @@
 Material for Session 1 (two weeks).
 It includes material on how to ise Python for:
 
-* Data Structures
-* Control of Execution
-* [Functions](https://nbviewer.jupyter.org/github/EvansDataScience/ComputationalThinking_Gov_1/blob/master/S1_C_Py_progfunctions.ipynb)
+* [Data Structures](https://nbviewer.jupyter.org/github/EvansDataScience/ComputationalThinking_Gov_1/blob/master/S1_A_Py_dataStructures.ipynb?flush_cache=true)
+* [Control of Execution](https://nbviewer.jupyter.org/github/EvansDataScience/ComputationalThinking_Gov_1/blob/master/S1_B_Py_controlOfExecution.ipynb?flush_cache=true)
+* [Functions](https://nbviewer.jupyter.org/github/EvansDataScience/ComputationalThinking_Gov_1/blob/master/S1_C_Py_progfunctions.ipynb?flush_cache=true)
 
 Please **fork** this repository, and then clone it into your computer. You can also see/run each notebook using [**nbviewer**](http://nbviewer.jupyter.org).
